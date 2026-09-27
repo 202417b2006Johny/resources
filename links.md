@@ -1,9 +1,5 @@
 # Resources
 
-Every link below was checked on 26 September 2026. Three URLs from the previous
-version of this file were dead and have been replaced, and those replacements are
-noted inline.
-
 ## Courses and notebooks
 
 - [Kaggle Learn, Time Series](https://www.kaggle.com/learn/time-series) is a
