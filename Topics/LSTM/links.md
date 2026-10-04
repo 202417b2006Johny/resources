@@ -19,3 +19,8 @@
 [Deep Learning: Long Short-Term Memory Networks (LSTMs) - MATLAB](https://youtu.be/5dMXyiWddYs?si=B67mUyzjPYVuJs93)  
 [What is LSTM (Long Short Term Memory)? - IBM Technology](https://youtu.be/b61DPVFX03I?si=1dPsOOEMk8na8FZR)  
 [Long Short-Term Memory (LSTM), Clearly Explained - StatQuest with Josh Starmer](https://youtu.be/YCzL96nL7j0?si=0ah5hAlmcLXHMdr3)
+
+
+[Introduction to ARIMA Model](https://youtu.be/3UmyHed0iYE?si=Jgr_GHrT3I2Sl1AL)
+[Time Series Talk : Stationarity](https://youtu.be/oY-j2Wof51c?si=bPyJQsJ9XGNYEWAq)
+[Time Series Talk : Autocorrelation and Partial Autocorrelation](https://youtu.be/DeORzP0go5I?si=gjIU9fysK1fEpMQl)
